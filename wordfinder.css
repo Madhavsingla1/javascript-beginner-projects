@@ -1,0 +1,53 @@
+/*#a1{
+    border:solid black 3px;
+
+}*/
+#a1-1{
+    width: 90%;
+    background-color: chocolate;
+    border:solid black 3px;
+    padding: 5px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    /*padding-top: 20px;*/
+}
+.cls{
+    float: left;
+    width: 30%;
+    border:solid black 3px;
+    /*background-color: greenyellow;*/
+    height: 400px;
+    align-content: center;
+}
+#a1-2{
+    background-color: darkolivegreen;
+}
+table {
+    border-collapse: collapse;
+    padding-left: 30px;
+    background-color: greenyellow;;
+  }
+table,td{
+    border: 3px solid black;
+    margin: 30px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 28px;
+}
+td{
+    height: 60px;
+    width: 50px;
+}
+#a1-3{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.txt{
+    /*padding-left: 20px;*/
+    text-align: center;
+    padding-top: 60px;
+    font-size: 32px;
+    height: 80px;
+}
